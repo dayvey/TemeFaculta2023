@@ -1,0 +1,15 @@
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\bin\Debug\net7.0\CifrulCezar.exe
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\bin\Debug\net7.0\CifrulCezar.deps.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\bin\Debug\net7.0\CifrulCezar.runtimeconfig.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\bin\Debug\net7.0\CifrulCezar.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\bin\Debug\net7.0\CifrulCezar.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.AssemblyInfo.cs
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\refint\CifrulCezar.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\CifrulCezar.genruntimeconfig.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulCezar\obj\Debug\net7.0\ref\CifrulCezar.dll

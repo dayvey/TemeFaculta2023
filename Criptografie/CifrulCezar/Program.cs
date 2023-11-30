@@ -17,9 +17,9 @@ namespace CifrulCezar
                     toR += input[i];
                 else
                 {
-
+                    char baseChar = char.IsUpper(input[i]) ? 'A' : 'a';
                     string c = "";
-                    c += (char)(input[i] + 3);
+                    c += (char)((input[i] + 3 - baseChar) % 26 + baseChar);
                     toR += c;
 
                 }
@@ -40,14 +40,38 @@ namespace CifrulCezar
                 else
                 {
 
+                    char baseChar = char.IsUpper(input[i]) ? 'A' : 'a';
                     string c = "";
-                    c += (char)(input[i] - 3);
+                    c += (char)((input[i] + 23 - baseChar) % 26 + baseChar);
                     toR += c;
 
                 };
             }
 
             return toR;
+        }
+
+        static void CryptAnalyze(string input)
+        {
+            for (int i = 1; i < 27; i++)
+            {
+                string test = input;
+                string toShow = "";
+                for (int j = 0; j < test.Length; j++)
+                {
+                    if (!Char.IsLetter(test[j]))
+                        toShow += test[j];
+                    else
+                    {
+                        char baseChar = char.IsUpper(test[j]) ? 'A' : 'a';
+                        string c = "";
+                        c += (char)((test[j] + i - baseChar) % 26 + baseChar);
+                        toShow += c;
+
+                    }
+                }
+                Console.WriteLine($"{toShow}, Key: {i}");
+            }
         }
 
         static void Main(string[] args)
@@ -69,10 +93,13 @@ namespace CifrulCezar
                 Console.WriteLine("The decrypted text is:");
                 Console.WriteLine(Decrypt(input));
             }
-            else
+            else if (n == 3)
             {
-                Console.WriteLine("Error. Invalid input.");
+                Console.WriteLine("The cryptanalyzation of the text is one of these:");
+                CryptAnalyze(input);
             }
+            else
+                Console.WriteLine("Error. Incorrect input");
         }
     }
 }
