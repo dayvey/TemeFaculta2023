@@ -1,0 +1,15 @@
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\bin\Debug\net7.0\CifrulPlusN.exe
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\bin\Debug\net7.0\CifrulPlusN.deps.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\bin\Debug\net7.0\CifrulPlusN.runtimeconfig.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\bin\Debug\net7.0\CifrulPlusN.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\bin\Debug\net7.0\CifrulPlusN.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.AssemblyInfo.cs
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\refint\CifrulPlusN.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\CifrulPlusN.genruntimeconfig.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\CifrulPlusN\obj\Debug\net7.0\ref\CifrulPlusN.dll
