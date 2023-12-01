@@ -1,0 +1,15 @@
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\bin\Debug\net7.0\MonoalphSubst.exe
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\bin\Debug\net7.0\MonoalphSubst.deps.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\bin\Debug\net7.0\MonoalphSubst.runtimeconfig.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\bin\Debug\net7.0\MonoalphSubst.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\bin\Debug\net7.0\MonoalphSubst.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.AssemblyInfo.cs
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\refint\MonoalphSubst.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\MonoalphSubst.genruntimeconfig.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\MonoalphSubst\obj\Debug\net7.0\ref\MonoalphSubst.dll
