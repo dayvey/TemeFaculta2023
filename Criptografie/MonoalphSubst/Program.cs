@@ -45,7 +45,16 @@ namespace MonoalphSubst
                         break;
 
                     case 3:
-                        Console.WriteLine("To be continued");
+                        Console.WriteLine("Type in the text you want to cryptanalize");
+                        s = Console.ReadLine();
+                        List<string> list= Cryptanalize(s);
+
+                        Console.WriteLine("The decrypted text could be one of the lines from the file out.txt");
+
+                        for (int i = 0; i < list.Count; i++)
+                        {
+                            Console.WriteLine(list[i]);
+                        }
                         break;
 
                     default:
@@ -57,6 +66,38 @@ namespace MonoalphSubst
                 Console.WriteLine("Would you like to exit? Type 1 for yes, 0 for no.");
                 ok = int.Parse(Console.ReadLine());
             }
+        }
+
+        static List<string> Cryptanalize (string s)
+        {
+            List<string> decrypted = new List<string>();
+            List<string> tried = new List<string>();
+
+            int i = 1;
+
+            while (i < 100)
+            {
+                bool ok = true;
+                string key = RandomAlphabet(26);
+
+                if (tried.Count() == 0)
+                    tried.Add(key);
+                else
+                {
+                    for (int j = 0; j < tried.Count() && ok; j++)
+                        if (key == tried[j])
+                            ok = false;
+                }
+
+                if (ok)
+                {
+                    string decrypt = Decrypt(s, key);
+                    decrypted.Add(decrypt);
+                    i++;
+                }
+            }
+
+            return decrypted;
         }
 
         static string Encrypt(string s, string key)
