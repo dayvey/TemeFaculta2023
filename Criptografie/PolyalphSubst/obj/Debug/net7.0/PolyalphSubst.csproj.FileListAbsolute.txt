@@ -1,0 +1,15 @@
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\bin\Debug\net7.0\PolyalphSubst.exe
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\bin\Debug\net7.0\PolyalphSubst.deps.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\bin\Debug\net7.0\PolyalphSubst.runtimeconfig.json
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\bin\Debug\net7.0\PolyalphSubst.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\bin\Debug\net7.0\PolyalphSubst.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.AssemblyInfoInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.AssemblyInfo.cs
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\refint\PolyalphSubst.dll
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.pdb
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\PolyalphSubst.genruntimeconfig.cache
+D:\Facultate\Semestrul 3\Teme\TemeFaculta2023\Criptografie\PolyalphSubst\obj\Debug\net7.0\ref\PolyalphSubst.dll
